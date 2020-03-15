@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task2</string>
+        <string name="setName">Введите имя:</string>
+        <string name="setSurname">Введите фамилию:</string>
+        <string name="setHeight">*Введите свой рост (см):</string>
+        <string name="sendData">Отправить данные</string>
+        <string name="calculate">Расчет оптимального веса исходя из роста </string>
+        <string name="ecxept">Заполните!</string>
+        <string name="uncorrectHeight">Некорректно!</string>
+        <string name="optimalWeight">Ваш оптимальный вес </string>
+    <string name="Calculate">Расчитать</string>
+
+</resources>
